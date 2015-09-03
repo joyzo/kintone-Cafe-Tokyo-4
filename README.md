@@ -27,6 +27,8 @@
 
 ![kintone-ml](image/kintone-ml.jpg)
 
+![kintone-aws-coop](image/kintone-aws-coop.jpg)
+
 ## Reference
 * [またまたkintoneとAWSを
 連携してみよう！](http://www.slideshare.net/yamaryu0508b/kintone-caf-vol3-kintone-aws-lambdas3-50828655)（slideshare）
