@@ -31,7 +31,7 @@
 
 ## Reference
 * [またまたkintoneとAWSを
-連携してみよう！](http://www.slideshare.net/yamaryu0508b/kintone-caf-vol3-kintone-aws-lambdas3-50828655)（slideshare）
+連携してみよう！](https://www.slideshare.net/yamaryu0508b/kintone-caf-vol4-kintone-aws-api-gatewaylambdamachine-learning-52406500)（slideshare）
 * [Amazon Web Services](http://aws.amazon.com/jp/)
 * [kintone](https://kintone.cybozu.com/jp/)
 * [kintone API リファレンス](https://cybozudev.zendesk.com/hc/ja/categories/200147600)（cybozu.com developer network内）
